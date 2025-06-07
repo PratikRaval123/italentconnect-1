@@ -11,8 +11,6 @@
 /dist
 
 # Environment files
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -44,3 +42,4 @@ Thumbs.db
 
 # Yarn Integrity file
 .yarn-integrity
+config.bat
